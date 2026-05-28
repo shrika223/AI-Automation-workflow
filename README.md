@@ -41,13 +41,3 @@ The workflow can:
 
 ---
 
-📸 Screenshots
-##Workflow
-workflow.png
-
-##AI chat 
-Ai chat.png
-
-- WhatsApp automation
-- PDF reader AI
-- AI email assistant
